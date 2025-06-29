@@ -1,6 +1,6 @@
 # Bosspad  
 
-I designed a 9 key and 1 encoder macropad for the real bosses. It also has an OLED screen and is designed to be mouted on a vertical surface.  
+I designed a 9 key and 1 encoder macropad for the real bosses. It also has an OLED screen and is designed to be mouted on a vertical surface. I plan on using it as a button box for sim racing. 
 It uses QMK firmware and supports VIA
 ![image](https://github.com/user-attachments/assets/7c111282-811b-4cff-9181-cdec293a3c83)
 
